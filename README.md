@@ -10,11 +10,11 @@ Phishing Reporter is a real-time phishing detection tool that reports if an emai
 
 ## Installation
 
-Clone the repository:
+## Clone the repository:
 git clone https://github.com/Omer1471/Phishing-reporter.git
 cd Phishing-reporter
 
-Set up a virtual environment:
+## Set up a virtual environment:
 python -m venv venv
 source venv/bin/activate
 

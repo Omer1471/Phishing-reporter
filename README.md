@@ -4,38 +4,57 @@ Phishing Reporter is a real-time phishing detection tool that reports if an emai
 
 ## Features
 
-- Real-time phishing detection
-- Utilizes machine learning models for accurate predictions
-- Easy-to-use interface for reporting and checking emails
+- **Real-time phishing detection**: Provides immediate feedback on email phishing probability.
+- **Machine learning models**: Utilizes advanced algorithms for accurate predictions.
+- **User-friendly interface**: Easy-to-use interface for reporting and checking emails.
 
 ## Installation
 
-## Clone the repository:
-git clone https://github.com/Omer1471/Phishing-reporter.git
-cd Phishing-reporter
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/Omer1471/Phishing-reporter.git
+    cd Phishing-reporter
+    ```
 
-## Set up a virtual environment:
-python -m venv venv
-source venv/bin/activate
+2. **Set up a virtual environment**:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate
+    ```
 
-Install the required packages:
-pip install -r requirements.txt
+3. **Install the required packages**:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
-Start the application:
-python app.py
+1. **Start the application**:
+    ```bash
+    python app.py
+    ```
 
-Open your web browser and go to http://localhost:5000 to use the Phishing Reporter.
+2. **Access the application**:
+    Open your web browser and go to [http://localhost:5000](http://localhost:5000) to use the Phishing Reporter.
 
 ## Contributing
 
-Fork the repository
-Create your feature branch (git checkout -b feature/fooBar)
-Commit your changes (git commit -am 'Add some fooBar')
-Push to the branch (git push origin feature/fooBar)
-Create a new Pull Request
+1. **Fork the repository**.
+2. **Create your feature branch**:
+    ```bash
+    git checkout -b feature/fooBar
+    ```
+3. **Commit your changes**:
+    ```bash
+    git commit -am 'Add some fooBar'
+    ```
+4. **Push to the branch**:
+    ```bash
+    git push origin feature/fooBar
+    ```
+5. **Create a new Pull Request**.
 
 ## License
 
 This project is licensed under the MIT License.
+
